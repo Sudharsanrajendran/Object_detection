@@ -2,6 +2,9 @@
 # python deep_learning_object_detection.py --image images/example_01.jpg \
 #	--prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 
+
+#Test line
+
 # import the necessary packages
 import numpy as np
 import argparse
